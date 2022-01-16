@@ -1,0 +1,17 @@
+Script made by Wesley Baker - CST 315
+
+echo Simple Shell Script 1
+
+pwd
+
+df
+
+ip
+
+jobs
+
+ping 137.152.185.153
+
+ps
+
+exit
